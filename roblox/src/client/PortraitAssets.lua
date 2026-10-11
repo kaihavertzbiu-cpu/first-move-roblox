@@ -1,0 +1,31 @@
+-- Original dark comic roster. Actual Roblox upload IDs, 2026-10-05.
+-- Source artwork and provenance: roblox/assets/characters/dark-comic-v1.
+return {
+    Version=2,
+    Units={
+        ting_sun={Image="rbxassetid://98157470953169",File="ting_sun-reaper.png",Width=1024,Height=1536,
+            Face={340,160,420,420},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        lan_dun={Image="rbxassetid://108970753492222",File="lan_dun-warden.png",Width=1024,Height=1536,
+            Face={300,170,430,430},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        ye_ban={Image="rbxassetid://136544226428354",File="ye_ban-tether.png",Width=1024,Height=1536,
+            Face={330,140,430,430},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        yan_wei={Image="rbxassetid://139424940254931",File="yan_wei-echo.png",Width=1024,Height=1536,
+            Face={360,140,460,460},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        bai_ji={Image="rbxassetid://84570693581610",File="bai_ji-mender.png",Width=1024,Height=1536,
+            Face={350,140,430,430},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        shuang_xing={Image="rbxassetid://116067235321893",File="shuang_xing-twinrail.png",Width=1024,Height=1536,
+            Face={360,130,440,440},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        chi_guang={Image="rbxassetid://130288780873233",File="chi_guang-lockout.png",Width=1024,Height=1536,
+            Face={400,130,440,440},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        zhe_jing={Image="rbxassetid://91194843690661",File="zhe_jing-prism.png",Width=1024,Height=1536,
+            Face={280,130,410,410},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        beng_yue={Image="rbxassetid://117871163326410",File="beng_yue-maul.png",Width=1024,Height=1536,
+            Face={310,230,400,400},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        huan_shi={Image="rbxassetid://73597220162207",File="huan_shi-whisper.png",Width=1024,Height=1536,
+            Face={430,135,370,370},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        zhui_lie={Image="rbxassetid://127768512588608",File="zhui_lie-outrider.png",Width=1024,Height=1536,
+            Face={260,170,450,450},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+        xuan_bao={Image="rbxassetid://100324940425133",File="xuan_bao-corrode.png",Width=1024,Height=1536,
+            Face={430,150,440,440},Full={0,0,1024,1536},Hero={120,130,850,1000}},
+    },
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-08",
+  "generator": "built-in image_gen",
+  "files": [
+    {
+      "file": "recruit-v1.png",
+      "assetId": "97959890731458",
+      "prompt": "Reference image role: material and rendering style reference only. Generate a NEW original UI rank emblem in the SAME coherent family, replacing the silhouette with lowest-tier Recruit: a compact single vertical steel shield plate, central narrow cyan diamond, simple silver bevel, no wings, no gold, no crown, strong spare silhouette. Square image, genuinely transparent cutout. Front-facing orthographic symmetrical asset, subject occupies only 78 percent of canvas with generous margins. Carefully painted premium 2D dark science-fiction tactical game UI asset. Cast graphite steel recesses, silver bevels, legible planes, fine restrained machining. Must read at 80px. Match reference lighting and central cyan crystal, but respect this rank's much simpler silhouette. No text, digits, watermark, existing franchise logo, scenery, ground shadow, bloom, particles or rays. Do not retain the reference's high-tier crown or wing count."
+    },
+    {
+      "file": "sentinel-v1.png",
+      "assetId": "80840964795531",
+      "prompt": "Reference image role: material and rendering style reference only. Generate a NEW original UI rank emblem in the SAME coherent family, replacing the silhouette with second-tier Sentinel: compact central angular steel shield, narrow cyan diamond, one short symmetrical pair of silver mechanical wing plates, no crown, no gold, controlled simple silhouette. Square image, genuinely transparent cutout. Front-facing orthographic symmetrical asset, subject occupies only 78 percent of canvas with generous margins. Carefully painted premium 2D dark science-fiction tactical game UI asset. Cast graphite steel recesses, silver bevels, legible planes, fine restrained machining. Must read at 80px. Match reference lighting and central cyan crystal, but respect this rank's much simpler silhouette. No text, digits, watermark, existing franchise logo, scenery, ground shadow, bloom, particles or rays. Do not retain the reference's high-tier crown or wing count."
+    },
+    {
+      "file": "tactician-v1.png",
+      "assetId": "75147892416459",
+      "prompt": "Reference image role: material and rendering style reference only. Generate a NEW original UI rank emblem in the SAME coherent family, replacing the silhouette with third-tier Tactician: central angular steel shield, cyan diamond, three small overlapping silver wing plates on each side, one subtle antique gold bevel line, no crown. Square image, genuinely transparent cutout. Front-facing orthographic symmetrical asset, subject occupies only 78 percent of canvas with generous margins. Carefully painted premium 2D dark science-fiction tactical game UI asset. Cast graphite steel recesses, silver bevels, legible planes, fine restrained machining. Must read at 80px. Match reference lighting and central cyan crystal, but respect this rank's much simpler silhouette. No text, digits, watermark, existing franchise logo, scenery, ground shadow, bloom, particles or rays. Do not retain the reference's high-tier crown or wing count."
+    },
+    {
+      "file": "commander-v1.png",
+      "assetId": "121699816303240",
+      "prompt": "Reference image role: material and rendering style reference only. Generate a NEW original UI rank emblem in the SAME coherent family, replacing the silhouette with fourth-tier Commander: central angular steel shield, cyan diamond, four broad layered silver mechanical wing plates each side, restrained gold inlays, a short flat command crest, NO tall crown. Square image, genuinely transparent cutout. Front-facing orthographic symmetrical asset, subject occupies only 78 percent of canvas with generous margins. Carefully painted premium 2D dark science-fiction tactical game UI asset. Cast graphite steel recesses, silver bevels, legible planes, fine restrained machining. Must read at 80px. Match reference lighting and central cyan crystal, but respect this rank's much simpler silhouette. No text, digits, watermark, existing franchise logo, scenery, ground shadow, bloom, particles or rays. Do not retain the reference's high-tier crown or wing count."
+    },
+    {
+      "file": "executive-v1.png",
+      "assetId": "97984525263288",
+      "prompt": "Use case: stylized-concept. Asset type: premium game UI rank insignia, a single original highest-tier Executive badge for the dark science-fiction strategy game FIRST MOVE. Transparent background, square composition, isolated front-facing perfectly centered emblem occupying 82 percent of canvas with generous clear margins. Subject: broad angular cast-steel shield, silver bevelled planes, layered symmetrical mechanical wing plates, restrained three-point crown at the top, narrow cyan energy-core diamond embedded in the centre, subtle antique gold edge inlays and tiny engineered rivets. Heavy machined object with crisp silhouette and believable raised relief, carefully painted premium 2D game asset, dark graphite recesses contrasted with pale steel highlights. Precise brushwork and fine engraved machining, restrained wear, no messy noise. Designed to read strongly at 80 px and show rich material at 200 px. Soft overhead key light plus cool side rim, no ground shadow. Mature industrial tactical UI aesthetic. No text, no letters, no digits, no logo, no watermark, no existing game's emblem, no scenery, no outer decorative frame, no dramatic rays, no particles, no bloom, no purple gradient. A genuinely transparent cutout, not a checkerboard painted in the image."
+    }
+  ],
+  "metadata": {
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alphaRange": [
+      0,
+      255
+    ]
+  },
+  "scope": "Original rank art; no imported franchise artwork"
+}

@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-05",
+  "generation": "built-in image_gen",
+  "styleReference": "reaper-ink-v5 (user approved)",
+  "units": [
+    {
+      "id": "ting_sun",
+      "file": "ting_sun-reaper.png",
+      "review": "User-approved style reference retained unchanged.",
+      "asset": "rbxassetid://98157470953169",
+      "face": [
+        340,
+        160,
+        420,
+        420
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "lan_dun",
+      "file": "lan_dun-warden.png",
+      "review": "Distinct mature human face and broad shield silhouette; consistent inked style, strong defensive role.",
+      "asset": "rbxassetid://108970753492222",
+      "face": [
+        300,
+        170,
+        430,
+        430
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "ye_ban",
+      "file": "ye_ban-tether.png",
+      "review": "Distinct elongated anomaly and paired tendrils, connected anchors communicate role; matches ink standard.",
+      "asset": "rbxassetid://136544226428354",
+      "face": [
+        330,
+        140,
+        430,
+        430
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "yan_wei",
+      "file": "yan_wei-echo.png",
+      "review": "Fractured ceramic body and restrained orange echo distinguish death-rattle identity; matches ink standard.",
+      "asset": "rbxassetid://139424940254931",
+      "face": [
+        360,
+        140,
+        460,
+        460
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "bai_ji",
+      "file": "bai_ji-mender.png",
+      "review": "Mature human medic, pale practical coat and clear healing device/hand; distinct from other units.",
+      "asset": "rbxassetid://84570693581610",
+      "face": [
+        350,
+        140,
+        430,
+        430
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "shuang_xing",
+      "file": "shuang_xing-twinrail.png",
+      "review": "Two distinct rail emitters point toward different targets; strong red-hair human silhouette, coherent ink style.",
+      "asset": "rbxassetid://116067235321893",
+      "face": [
+        360,
+        130,
+        440,
+        440
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "chi_guang",
+      "file": "chi_guang-lockout.png",
+      "review": "Angular human commander with clearly defined suppression device and five-finger hand.",
+      "asset": "rbxassetid://130288780873233",
+      "face": [
+        400,
+        130,
+        440,
+        440
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "zhe_jing",
+      "file": "zhe_jing-prism.png",
+      "review": "Faceted mirror head/forearm and clear reflected ray, distinct from organic anomalies.",
+      "asset": "rbxassetid://91194843690661",
+      "face": [
+        280,
+        130,
+        410,
+        410
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "beng_yue",
+      "file": "beng_yue-maul.png",
+      "review": "Heavy mutant silhouette and industrial piston weapon; distinct proportions and readable face.",
+      "asset": "rbxassetid://117871163326410",
+      "face": [
+        310,
+        230,
+        400,
+        400
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "huan_shi",
+      "file": "huan_shi-whisper.png",
+      "review": "Lean human profile, minimal phase emitter and single shield-piercing line clearly differentiate role.",
+      "asset": "rbxassetid://73597220162207",
+      "face": [
+        430,
+        135,
+        370,
+        370
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "zhui_lie",
+      "file": "zhui_lie-outrider.png",
+      "review": "Weathered tracker with pale eye, dust-grey coat and pursuing gesture; coherent ink art.",
+      "asset": "rbxassetid://127768512588608",
+      "face": [
+        260,
+        170,
+        450,
+        450
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    },
+    {
+      "id": "xuan_bao",
+      "file": "xuan_bao-corrode.png",
+      "review": "Hooked nonhuman head, shoulder reservoir and corrosive three-pronged claw; coherent restrained green palette.",
+      "asset": "rbxassetid://100324940425133",
+      "face": [
+        430,
+        150,
+        440,
+        440
+      ],
+      "full": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "hero": [
+        120,
+        130,
+        850,
+        1000
+      ],
+      "status": "uploaded; Studio client texture load verified"
+    }
+  ]
+}

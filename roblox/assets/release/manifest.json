@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-10",
+  "icon": {
+    "file": "first-move-icon.png",
+    "source": "first-move-icon.svg",
+    "type": "original code-native vector brand"
+  },
+  "thumbnails": [
+    {
+      "file": "first-move-home-thumbnail.png",
+      "capture": "generated/evidence/english-home-final-2026-10-10.jpg"
+    },
+    {
+      "file": "first-move-battle-thumbnail.png",
+      "capture": "generated/evidence/english-live-battle-2026-10-10.jpg"
+    }
+  ],
+  "captureScope": "real Studio client screenshots, unchanged UI with branded framing; not published-client acceptance",
+  "copyright": "Original project art and geometry. No third-party game artwork used."
+}

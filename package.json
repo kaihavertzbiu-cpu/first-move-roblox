@@ -1,0 +1,9 @@
+{
+  "name": "first-move-roblox",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Roblox two-player strategy game source",
+  "scripts": {
+    "build": "node roblox/build.cjs"
+  }
+}
