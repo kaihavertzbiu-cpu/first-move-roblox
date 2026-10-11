@@ -2,11 +2,6 @@
   "version": "2026-10-11",
   "files": [
     {
-      "file": ".build/backups/DEADLOCK_PROTOCOL-1791696124764.rbxlx",
-      "bytes": 961578,
-      "sha256": "9e2e16adf41bf00851036f1c2b0eb8cbcd15a4b37686608579e643f5751f3a32"
-    },
-    {
       "file": ".gitattributes",
       "bytes": 92,
       "sha256": "14f058476ba7e2a3dde7201f8fb02e62edf1aee579d5f9db83eefb50fa1c3b5e"
@@ -22,9 +17,19 @@
       "sha256": "c2eb6026d3416abfa39c971d08e4a590eda43238752005780f5f4e3f1f708bf1"
     },
     {
+      "file": "README.md",
+      "bytes": 2643,
+      "sha256": "0e6fe5e3c303d475d7c11a8fb31d84ab5cfe2d12e1c147b77f575bd43c3f0070"
+    },
+    {
       "file": "docs/AUDIO_SOURCES.md",
       "bytes": 5699,
       "sha256": "4477d39bcd702b3cb300208b8a7d1aa312f1a9215c74159b22f21b16deb3d66c"
+    },
+    {
+      "file": "docs/VALIDATION.md",
+      "bytes": 459,
+      "sha256": "36c2f53864648e86fb50acd70e904ca93b15a2f9034bac73e1b2102dbe39ade1"
     },
     {
       "file": "docs/battle.webp",
@@ -35,11 +40,6 @@
       "file": "docs/home.webp",
       "bytes": 69022,
       "sha256": "337cd5f7699336b0f28cd2f736a41e19d86ed3a25edbd3e9995509f6c56aec78"
-    },
-    {
-      "file": "docs/VALIDATION.md",
-      "bytes": 459,
-      "sha256": "36c2f53864648e86fb50acd70e904ca93b15a2f9034bac73e1b2102dbe39ade1"
     },
     {
       "file": "generated/.gitkeep",
@@ -57,9 +57,14 @@
       "sha256": "8bfdc0af6aee9a75061848363de0a31aff66d189514acb345b5e5960e50ee221"
     },
     {
-      "file": "README.md",
-      "bytes": 2643,
-      "sha256": "0e6fe5e3c303d475d7c11a8fb31d84ab5cfe2d12e1c147b77f575bd43c3f0070"
+      "file": "roblox/DEADLOCK_PROTOCOL.rbxlx",
+      "bytes": 961578,
+      "sha256": "9e2e16adf41bf00851036f1c2b0eb8cbcd15a4b37686608579e643f5751f3a32"
+    },
+    {
+      "file": "roblox/README.md",
+      "bytes": 91,
+      "sha256": "fdc3c9fff1c7e63bca0a8f706c80a0a733d310b24b5d55f6c93c813ebd6aa0bf"
     },
     {
       "file": "roblox/assets/characters/dark-comic-v1/bai_ji-mender.png",
@@ -197,19 +202,9 @@
       "sha256": "91f91f41c29517930cb3e87e3e1ce1f8d0ce568ab7ba81e8c1b8021a945a0671"
     },
     {
-      "file": "roblox/DEADLOCK_PROTOCOL.rbxlx",
-      "bytes": 961578,
-      "sha256": "9e2e16adf41bf00851036f1c2b0eb8cbcd15a4b37686608579e643f5751f3a32"
-    },
-    {
       "file": "roblox/product.json",
       "bytes": 140,
       "sha256": "751f599b8ebc450ad8d6c9e11fa918c2d537722495ed5be879b5427fa08c3ce5"
-    },
-    {
-      "file": "roblox/README.md",
-      "bytes": 91,
-      "sha256": "fdc3c9fff1c7e63bca0a8f706c80a0a733d310b24b5d55f6c93c813ebd6aa0bf"
     },
     {
       "file": "roblox/scene.cjs",
@@ -447,6 +442,11 @@
       "sha256": "218a579185709ea436e354e3e392d3100364a5c88fa7903750d9e6bbd1a61408"
     },
     {
+      "file": "roblox/tests/README.md",
+      "bytes": 4410,
+      "sha256": "bc01df52fc93058e80e0890464a4dbd1d34be168db5839047fc1a59450235f1c"
+    },
+    {
       "file": "roblox/tests/audio-feedback-tests.lua",
       "bytes": 4509,
       "sha256": "f471220f8e446e078305a55665875cc34cf77c76c029f18a1163accdc57526f5"
@@ -555,11 +555,6 @@
       "file": "roblox/tests/pvp-live-server.lua",
       "bytes": 1376,
       "sha256": "837460ab67a7b92d2ccc0f3d59f01d949d80e29b0d6390c16e8d70f79525ecbb"
-    },
-    {
-      "file": "roblox/tests/README.md",
-      "bytes": 4410,
-      "sha256": "bc01df52fc93058e80e0890464a4dbd1d34be168db5839047fc1a59450235f1c"
     },
     {
       "file": "roblox/tests/report-story-tests.lua",
